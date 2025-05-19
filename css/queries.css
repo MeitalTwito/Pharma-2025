@@ -98,6 +98,11 @@
     margin-bottom: 3.6rem;
   }
 
+  .section-hero {
+    background-attachment: scroll;
+    background-position: -100px;
+    background-size: cover;
+  }
   .section-info {
     padding: 4.8rem 0;
   }
